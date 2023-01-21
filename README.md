@@ -57,8 +57,8 @@ Licensed under the [MIT license](https://choosealicense.com/licenses/mit/)
   https://github.com/wolfjfly/Progressive-web-app-ch-19  
 
   Heroku  
+  https://pwa-ch19-text-editor.herokuapp.com/ | https://git.heroku.com/pwa-ch19-text-editor.git  
 
-
-  Video
-  https://drive.google.com/file/d/1-3VamGmIvSDT0HOIiFbOtya76sUour_Z/view
+  Video  
+  
 
