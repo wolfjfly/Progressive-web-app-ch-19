@@ -15,16 +15,16 @@
   6. [License](#license)
   7. [Questions](#questions)
 
-  ![screenshot.JPG](./client/src/images/)
-  
   ## Installation
-  
-
+  npm i  
+  npm run install  
+  npm run start  
 
   ## Usage
-  
-  
-  <img width="1207" alt="Demo" src="client/src/GIf/">
+  <img width="1207" alt="Demo" src="client/src/GIf/demo.gif">  
+  ![screenshot.JPG](./client/src/images/indexedDB.JPG)  
+  ![screenshot.JPG](./client/src/images/manifest.JPG)  
+  ![screenshot.JPG](./client/src/images/sw.JPG)  
 
   
   ## Contributing
@@ -59,6 +59,4 @@ Licensed under the [MIT license](https://choosealicense.com/licenses/mit/)
   Heroku  
   https://pwa-ch19-text-editor.herokuapp.com/ | https://git.heroku.com/pwa-ch19-text-editor.git  
 
-  Video  
 
-  https://drive.google.com/file/d/1-3VamGmIvSDT0HOIiFbOtya76sUour_Z/view
