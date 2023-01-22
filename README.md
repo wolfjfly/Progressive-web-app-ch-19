@@ -36,6 +36,10 @@
   
 
   ## Credits
+  https://developer.chrome.com/docs/workbox/modules/workbox-recipes/  
+  https://www.npmjs.com/package/webpack  
+  https://docs.npmjs.com/cli/v8/configuring-npm/npmrc  
+  https://www.npmjs.com/package/concurrently  
   
   
   
