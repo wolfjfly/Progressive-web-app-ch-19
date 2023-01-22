@@ -22,9 +22,13 @@
 
   ## Usage
   <img width="1207" alt="Demo" src="client/src/GIf/demo.gif">  
-  ![screenshot.JPG](./client/src/images/indexedDB.JPG)    
-  ![screenshot.JPG](./client/src/images/manifest.JPG)    
-  ![screenshot.JPG](./client/src/images/sw.JPG)    
+  
+  ![screenshot.JPG](./client/src/images/manifest.JPG)  
+
+  ![screenshot.JPG](./client/src/images/indexedDB.JPG)  
+
+  ![screenshot.JPG](./client/src/images/sw.JPG)  
+
 
   
   ## Contributing
